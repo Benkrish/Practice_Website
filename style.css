@@ -94,6 +94,8 @@ nav {
 }
 
 #rightContainer > img {
+  max-width: 100%;
+  height: auto;
   margin-right: 7vmax;
   filter: drop-shadow(0 0 20px black);
 }
